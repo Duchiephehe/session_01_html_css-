@@ -109,7 +109,7 @@ header {
 
 ## ✅ Success Criteria
 
-- [ ] Header sticky và responsive
+- [ ]
 - [ ] Nav links hover effect hoạt động
 - [ ] Hero full viewport height
 - [ ] CTA button có hover animation
